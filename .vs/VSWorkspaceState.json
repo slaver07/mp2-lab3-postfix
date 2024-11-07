@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dolov",
+    "\\Dolov\\base",
+    "\\Dolov\\base_test",
+    "\\Dolov\\gtest"
+  ],
+  "SelectedNode": "\\Dolov\\base_test\\test_tstack.cpp",
+  "PreviewInSolutionExplorer": false
+}

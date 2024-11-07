@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "Dolov\\CMakeLists.txt",
+      "projectTarget": "postfix_test.exe (base_test\\postfix_test.exe)",
+      "name": "postfix_test.exe (base_test\\postfix_test.exe)"
+    }
+  ]
+}
