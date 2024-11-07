@@ -6,6 +6,6 @@
     "\\Dolov\\base_test",
     "\\Dolov\\gtest"
   ],
-  "SelectedNode": "\\Dolov\\base_test\\test_tstack.cpp",
+  "SelectedNode": "\\Dolov\\base\\postfix.h",
   "PreviewInSolutionExplorer": false
 }
